@@ -27,7 +27,6 @@ This project demonstrates how to scrape a table from a website using Python and 
 ├── Scraping a Table from a Website.ipynb  # Jupyter Notebook with the scraping script
 ├── Company_Data.csv                       # Extracted data (if executed)
 ├── README.md                              # Project documentation
-└── requirements.txt                        # Dependencies
 ```
 
 ## Notes
