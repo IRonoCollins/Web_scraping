@@ -34,7 +34,7 @@ This project demonstrates how to scrape a table from a website using Python and 
 - Modify the URL and table selection logic if extracting data from a different source.
 
 ## License
-This project is licensed under the MIT License.
+This dataset is available for educational and research purposes. 
 
 ## Author
 [collins rono](https://github.com/IRonoCollins)
